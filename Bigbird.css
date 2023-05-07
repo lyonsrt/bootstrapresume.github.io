@@ -1,0 +1,23 @@
+.gray-box{
+  background-color: gray;
+}
+body {
+  background-color: lightgoldenrodyellow;
+  color: purple;
+  font-family: "Times New Roman", Times, Serif;
+  font-size: 15px;
+}
+img {
+  width: 300px;
+  border-radius: 50%;
+}
+
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+h2{
+  color: navy;
+}
+
